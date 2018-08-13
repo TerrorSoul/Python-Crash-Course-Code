@@ -1,0 +1,3 @@
+In Python you can drink some coffee
+In Python you can eat some bread
+In Python you can see some paper
